@@ -2,4 +2,4 @@
 
 <p><em>CTO at <a href="https://www.verge.software">Verge</a><p>
 
-[![GitHub Sameel](https://img.shields.io/github/followers/sameelarif?label=follow&style=social)](https://github.com/sameelarif)
+> "Technology is not just what we make, it’s about how we make it.” - Marc Randolph
